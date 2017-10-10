@@ -1,0 +1,23 @@
+C:\Users\105798\Documents\Visual Studio 2013\Projects\Appium_ Automation\Appium_ Automation\bin\Debug\Appium_ Automation.exe.config
+C:\Users\105798\Documents\Visual Studio 2013\Projects\Appium_ Automation\Appium_ Automation\bin\Debug\Appium_ Automation.exe
+C:\Users\105798\Documents\Visual Studio 2013\Projects\Appium_ Automation\Appium_ Automation\bin\Debug\Appium_ Automation.pdb
+C:\Users\105798\Documents\Visual Studio 2013\Projects\Appium_ Automation\Appium_ Automation\bin\Debug\appium-dotnet-driver.dll
+C:\Users\105798\Documents\Visual Studio 2013\Projects\Appium_ Automation\Appium_ Automation\bin\Debug\Castle.Core.dll
+C:\Users\105798\Documents\Visual Studio 2013\Projects\Appium_ Automation\Appium_ Automation\bin\Debug\Gherkin.dll
+C:\Users\105798\Documents\Visual Studio 2013\Projects\Appium_ Automation\Appium_ Automation\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\105798\Documents\Visual Studio 2013\Projects\Appium_ Automation\Appium_ Automation\bin\Debug\log4net.dll
+C:\Users\105798\Documents\Visual Studio 2013\Projects\Appium_ Automation\Appium_ Automation\bin\Debug\Newtonsoft.Json.dll
+C:\Users\105798\Documents\Visual Studio 2013\Projects\Appium_ Automation\Appium_ Automation\bin\Debug\nunit.framework.dll
+C:\Users\105798\Documents\Visual Studio 2013\Projects\Appium_ Automation\Appium_ Automation\bin\Debug\pnunit.framework.dll
+C:\Users\105798\Documents\Visual Studio 2013\Projects\Appium_ Automation\Appium_ Automation\bin\Debug\WebDriver.dll
+C:\Users\105798\Documents\Visual Studio 2013\Projects\Appium_ Automation\Appium_ Automation\bin\Debug\WebDriver.Support.dll
+C:\Users\105798\Documents\Visual Studio 2013\Projects\Appium_ Automation\Appium_ Automation\bin\Debug\appium-dotnet-driver.xml
+C:\Users\105798\Documents\Visual Studio 2013\Projects\Appium_ Automation\Appium_ Automation\bin\Debug\Castle.Core.xml
+C:\Users\105798\Documents\Visual Studio 2013\Projects\Appium_ Automation\Appium_ Automation\bin\Debug\log4net.xml
+C:\Users\105798\Documents\Visual Studio 2013\Projects\Appium_ Automation\Appium_ Automation\bin\Debug\Newtonsoft.Json.xml
+C:\Users\105798\Documents\Visual Studio 2013\Projects\Appium_ Automation\Appium_ Automation\bin\Debug\nunit.framework.xml
+C:\Users\105798\Documents\Visual Studio 2013\Projects\Appium_ Automation\Appium_ Automation\bin\Debug\WebDriver.xml
+C:\Users\105798\Documents\Visual Studio 2013\Projects\Appium_ Automation\Appium_ Automation\bin\Debug\WebDriver.Support.xml
+C:\Users\105798\Documents\Visual Studio 2013\Projects\Appium_ Automation\Appium_ Automation\obj\Debug\Appium_ Automation.csproj.ResolveComReference.cache
+C:\Users\105798\Documents\Visual Studio 2013\Projects\Appium_ Automation\Appium_ Automation\obj\Debug\Appium_ Automation.exe
+C:\Users\105798\Documents\Visual Studio 2013\Projects\Appium_ Automation\Appium_ Automation\obj\Debug\Appium_ Automation.pdb
